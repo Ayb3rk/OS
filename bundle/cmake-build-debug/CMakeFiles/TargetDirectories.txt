@@ -1,0 +1,3 @@
+/Users/ayberkgokmen/Desktop/OS_HW1/bundle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ayberkgokmen/Desktop/OS_HW1/bundle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ayberkgokmen/Desktop/OS_HW1/bundle/cmake-build-debug/CMakeFiles/bundle.dir

@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include "parser.h"
 int main(void){
-    char input[255];
+    char input[10];
     int is_bundle = 1;
     parsed_input result;
     while(1){

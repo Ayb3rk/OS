@@ -1,2 +1,4 @@
-all:
-	g++ hw1.cpp -o hw1
+linux:
+	g++ hw1.cpp -o bundle
+macos:
+	clang++ hw1.cpp -o bundle
